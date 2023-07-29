@@ -1,4 +1,6 @@
 # module-14-mvc-tech-blog
+
+## Description
 A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
 
 ## User Story
@@ -46,3 +48,20 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
 ```
+
+## Installation
+
+
+## Usage
+
+
+## Screenshot
+
+
+## Link
+
+
+## Credits
+*
+*
+*
