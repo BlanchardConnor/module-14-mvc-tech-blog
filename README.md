@@ -64,5 +64,6 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ## Credits
 * Various student study groups at 2023 KU Spring/Summer Coding Bootcamp
 * https://www.youtube.com/watch?v=DUg2SWWK18I
-*
-*
+* https://handlebarsjs.com/guide/
+* https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+* Other documentation provided by instructional staff
