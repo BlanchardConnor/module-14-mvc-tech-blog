@@ -1,4 +1,4 @@
-# module-14-mvc-tech-blog
+# Module-14: MVC Tech Blog
 
 ## Description
 A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
@@ -50,16 +50,13 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ```
 
 ## Installation
-
+Clone the repo using `git clone`, and install dependencies in the command line using `npm i`
 
 ## Usage
-
-
-## Screenshot
-
-
-## Link
-
+After dependencies have been installed, run the following commands in the CL:
+```npm run test```
+```npm run seed```
+```npm start server```
 
 ## Credits
 * Various student study groups at 2023 KU Spring/Summer Coding Bootcamp
